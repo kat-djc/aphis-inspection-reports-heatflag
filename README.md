@@ -1,2 +1,4 @@
-# aphis-inspection-reports-heatflag
-Code for creating a heat/temperature flag for inspections data from USDA's Animal and Plant Health Inspection Service.
+# APHIS Inspection Reports - Temperature Flag
+Code for creating a temperature flag for inspections data from USDA's Animal and Plant Health Inspection Service.
+
+## Overview
